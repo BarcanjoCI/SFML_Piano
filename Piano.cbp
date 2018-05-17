@@ -40,7 +40,6 @@
 			<Add library="sfml-system" />
 			<Add directory="../../SFML-2.4.2/build/lib" />
 		</Linker>
-		<Unit filename="bin/Debug/test.wav" />
 		<Unit filename="headers.hpp" />
 		<Unit filename="keys.cpp" />
 		<Unit filename="main.cpp" />
